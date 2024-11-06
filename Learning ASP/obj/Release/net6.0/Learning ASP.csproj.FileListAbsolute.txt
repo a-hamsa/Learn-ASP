@@ -1,0 +1,30 @@
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\bin\Release\net6.0\appsettings.json
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\bin\Release\net6.0\Learning ASP.staticwebassets.runtime.json
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\bin\Release\net6.0\Learning ASP.exe
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\bin\Release\net6.0\Learning ASP.deps.json
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\bin\Release\net6.0\Learning ASP.runtimeconfig.json
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\bin\Release\net6.0\Learning ASP.dll
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\bin\Release\net6.0\Learning ASP.pdb
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\Learning ASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\Learning ASP.AssemblyInfoInputs.cache
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\Learning ASP.AssemblyInfo.cs
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\Learning ASP.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\Learning ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\Learning ASP.RazorAssemblyInfo.cache
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\Learning ASP.RazorAssemblyInfo.cs
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\staticwebassets\msbuild.Learning ASP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\staticwebassets\msbuild.build.Learning ASP.props
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Learning ASP.props
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Learning ASP.props
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\scopedcss\bundle\Learning ASP.styles.css
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\scopedcss\projectbundle\Learning ASP.bundle.scp.css
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\Learning ASP.dll
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\refint\Learning ASP.dll
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\Learning ASP.pdb
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\Learning ASP.genruntimeconfig.cache
+C:\Users\Anastasia\source\repos\Learning ASP\Learning ASP\obj\Release\net6.0\ref\Learning ASP.dll
