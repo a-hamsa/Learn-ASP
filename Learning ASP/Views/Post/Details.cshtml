@@ -1,0 +1,9 @@
+﻿@model Learning_ASP.Models.Post
+
+<h2>Post Details</h2>
+
+<p><strong>Title:</strong> @Model.Title</p>
+<p><strong>Content:</strong> @Model.Content</p>
+<p><strong>Created At:</strong> @Model.CreatedAt.ToString("g")</p>
+
+<a href="@Url.Action("Index", "Post")" class="btn btn-secondary">Back to List</a>
